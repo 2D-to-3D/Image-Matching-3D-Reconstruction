@@ -7,7 +7,7 @@ This repository contains Python code for image matching, feature detection, and 
 - Shortlist image pairs for feature matching based on similarity.
 - Detect and match local features using different algorithms, including DISK, KeyNetAffNetHardNet, and LoFTR.
 - Generate 3D reconstructions using COLMAP.
-- Create a submission file with 3D camera poses for image datasets.
+- Create a csv file with 3D camera poses for image datasets.
 
 
 
